@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: cadetblue;
+    background-color: wheat;
 }
 
 .card{
@@ -38,7 +38,7 @@ body{
     margin-right: 15px;
     font-size: 20px;
    
-    color: cadetblue;
+    color: black;
 }
 
 .search button{
